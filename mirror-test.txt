@@ -1,1 +1,1 @@
-Repository mirroring test
+Mirror Test
